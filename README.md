@@ -4,7 +4,8 @@ Startup-Video-notes
 Notes by HN user on how to start a startup video
 
 Video: [How to start a startup](https://www.youtube.com/watch?v=CBYhVcO4WgI)
-Notes by: [philipDS](https://news.ycombinator.com/user?id=philipDS)
+
+Notes by: [philipDS](https://news.ycombinator.com/user?id=philipDS)  twitter:[philipdesmedt](https://twitter.com/philipdesmedt)
 
 # 4 critical parts: Idea, Team, Product, Execution
 
